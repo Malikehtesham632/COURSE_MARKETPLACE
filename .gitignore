@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+course_marketplace.db
+venv/
+.venv/
